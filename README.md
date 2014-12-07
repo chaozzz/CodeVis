@@ -1,1 +1,1 @@
-It is an init readmed file
+It is an init readme file
